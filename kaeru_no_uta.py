@@ -39,7 +39,6 @@ btn5 = 0
 btn6 = 0
 btn7 = 0
 
-
 while 1 :
         if GPIO.input(PIN_END):
                 break;
