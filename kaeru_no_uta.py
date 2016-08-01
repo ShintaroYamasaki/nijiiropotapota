@@ -31,7 +31,6 @@ GPIO.setup(PIN_7, GPIO.IN)
 # 終了
 GPIO.setup(PIN_END, GPIO.IN)
 
-
 btn1 = 0
 btn2 = 0
 btn3 = 0
