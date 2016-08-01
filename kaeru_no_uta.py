@@ -40,9 +40,6 @@ btn5 = 0
 btn6 = 0
 btn7 = 0
 
-count = 0
-
-# os.system("paplay ame_se.wav &")
 
 while 1 :
         if GPIO.input(PIN_END):
